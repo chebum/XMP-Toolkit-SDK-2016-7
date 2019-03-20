@@ -1,0 +1,7 @@
+build/vc14
+public/libraries
+XMPCore/build/vc14
+XMPFiles/build/vc14
+XMPFilesPlugins/build/vc14
+*.obj
+*.pdb
